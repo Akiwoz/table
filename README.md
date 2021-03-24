@@ -20,7 +20,7 @@
   </thead>
   <tbody>
   <tr>
-    <th scope="row"><td>Taiga Aisaka<br><br><img src="OIP.jpg" alt="Taiga" width="234" height="300"> </td></th>
+    <td>Taiga Aisaka<br><br><img src="OIP.jpg" alt="Taiga" width="234" height="300"></td>
     <td>&nbsp;17-18</td>
     <td>&nbsp;4'9</td>
     <td>&nbsp;Main</td>
